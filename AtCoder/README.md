@@ -1,2 +1,2 @@
-AtCoder（アットコーダー）
+AtCoder  
 http://atcoder.jp/
