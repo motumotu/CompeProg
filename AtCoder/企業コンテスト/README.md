@@ -16,19 +16,19 @@
 |CODE FESTIVAL 2014 中国ツアー| | | | | | | | | | | | | | |
 |CODE THANKS FESTIVAL 2014 日程B| | | | | | | | | | | | | | |
 |CODE THANKS FESTIVAL 2014 日程A| | | | | | | | | | | | | | |
-|CODE FESTIVAL 2014 チーム対抗早解きリレー| | | | | | | | | | | | | | |
+|CODE FESTIVAL 2014 チーム対抗早解きリレー|o|o|o|o|o|o|o|o|o| | | | | |
 |CODE FESTIVAL 2014 あさぷろ（Hard）| | | | | | | | | | | | | | |
 |CODE FESTIVAL 2014 あさぷろ（Middle）| | | | | | | | | | | | | | |
-|CODE FESTIVAL 2014 あさぷろ（Easy）| | | | | | | | | | | | | | |
+|CODE FESTIVAL 2014 あさぷろ（Easy）|o|o|o| |-|-|-|-|-|-|-|-|-|-|
 |CODE FESTIVAL 2014 エキシビション| | | | | | | | | | | | | | |
 |CODE FESTIVAL 2014 本戦| | | | | | | | | | | | | | |
-|CODE FESTIVAL 2014 予選B| | | | | | | | | | | | | | |
+|CODE FESTIVAL 2014 予選B|o|o|o| |-|-|-|-|-|-|-|-|-|-|
 |Code Formula 本選| | | | | | | | | | | | | | |
-|CODE FESTIVAL 2014 予選A| | | | | | | | | | | | | | |
+|CODE FESTIVAL 2014 予選A|o|o|o| |-|-|-|-|-|-|-|-|-|-|
 |天下一プログラマーコンテスト2014本戦| | | | | | | | | | | | | | |
 |Code formula 予選B| | | | | | | | | | | | | | |
 |天下一プログラマーコンテスト2014予選B| | | | | | | | | | | | | | |
-|Code formula 予選A| | | | | | | | | | | | | | |
+|Code formula 予選A|o|o| | |-|-|-|-|-|-|-|-|-|-|
 |天下一プログラマーコンテスト2014予選A| | | | | | | | | | | | | | |
 |Recruit Programming Contest 模擬練習会| | | | | | | | | | | | | | |
 |天下一プログラマーコンテスト2013 決勝| | | | | | | | | | | | | | |
